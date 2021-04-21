@@ -7,8 +7,8 @@ Learn more about Builder.io + Next.js [here](https://www.builder.io/c/docs/getti
 ### Clone this repo
 
 ```
-git clone https://github.com/BuilderIO/builder.git
-cd builder/examples/next-js-simple
+git clone https://github.com/seelowbei/builder.git
+cd builder
 ```
 
 ### Generate your Builder.io space
